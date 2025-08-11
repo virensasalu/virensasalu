@@ -1,6 +1,6 @@
 #  Hi, I’m @virensasalu  
 
-## 👀 I’m interested in ...  
+##  I’m interested in ...  
 - Data Engineering  
 - Machine Learning & AI  
 - VR Game Development
